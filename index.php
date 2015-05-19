@@ -43,7 +43,7 @@
 						</div>
 						
 						<div class="8u">
-							<p><h4><a href="mailto:welcome@quorums.co" style="color:#707178">Welcome@quorums.com</a></h4></p>
+							<p><h4><a href="mailto:welcome@quorums.co" style="color:#707178">welcome@quorums.eu</a></h4></p>
 						
 						</div>
 
